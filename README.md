@@ -27,9 +27,6 @@ Stock Analyzer — lightweight stock data exploration
 
 Videogame Analysis — data‑driven look at game performance and trends
 
-📊 Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cody-becker&layout=compact)
 
 📈 What I’m Learning
 Data engineering fundamentals
