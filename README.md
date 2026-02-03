@@ -28,17 +28,6 @@ Stock Analyzer — lightweight stock data exploration
 Videogame Analysis — data‑driven look at game performance and trends
 
 
-📈 What I’m Learning
-Data engineering fundamentals
-
-Building reproducible pipelines
-
-Structuring messy datasets
-
-Turning raw logs into meaningful metrics
-
-Clean project design and documentation
-
 🎯 What I’m Aiming For
 To build a portfolio of projects that show:
 
