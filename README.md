@@ -1,40 +1,29 @@
-## Hi there 👋
+## Hi 👋
 
-I work on data analytics, and real‑world problem solving.
-I like building systems that turn messy data into clear insights — and learning by shipping projects in public.
+I'm Cody, a freshman CS student at Oklahoma City University.
 
-Right now I’m building an event‑driven NBA analytics engine from raw play‑by‑play data, but I’m always experimenting with new ideas.
+I build data analysis projects in public — mostly exploring sports stats, financial data, and anything that sparks curiosity. Learning by doing, iterating in the open, and getting better with each project.
 
-🛠️ What I Work With
-Python
+### 🛠️ Tools I Use
+- Python (Pandas, NumPy, Matplotlib)
+- Jupyter Notebooks
+- SQL (learning)
+- Data cleaning, exploration, and visualization
 
-Pandas / NumPy
+### 📌 Current Projects
+- **Shaq 2000–01 Season Engine** — Reconstructing a full NBA season from raw play-by-play data
+- **NBA Analytics** — Building visualizations and exploring basketball data
+- **BankAnalysis** — Exploring patterns in financial data
+- **VideogameAnalysis** — Data-driven look at gaming trends
 
-Jupyter Notebooks
+### 🎯 What I'm Working Toward
+Building a portfolio that shows:
+- Real-world problem solving with data
+- Clear communication of findings
+- Curiosity-driven exploration
+- Continuous improvement
 
-Data cleaning & transformation
+### 📫 Get in Touch
+Working on interesting data projects or have summer 2026 internship opportunities? I'd love to connect.
 
-Analytics pipelines
-
-Real‑world datasets
-
-📌 Current Projects
-Shaq 2000–01 Season Engine — reconstructing a full NBA season from raw play‑by‑play
-
-BankAnalysis — exploring financial patterns in synthetic banking data
-
-Stock Analyzer — lightweight stock data exploration
-
-Videogame Analysis — data‑driven look at game performance and trends
-
-
-🎯 What I’m Aiming For
-To build a portfolio of projects that show:
-
-clear thinking
-
-clean data pipelines
-
-real‑world problem solving
-
-curiosity and iteration
+**Email:** codyjacobecker@gmail.com
