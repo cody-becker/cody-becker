@@ -29,7 +29,7 @@ Videogame Analysis — data‑driven look at game performance and trends
 
 📊 Languages
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=cody-becker&layout=compact
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cody-becker&layout=compact)
 
 📈 What I’m Learning
 Data engineering fundamentals
